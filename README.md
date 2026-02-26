@@ -45,21 +45,21 @@ The project demonstrates strong SQL fundamentals along with advanced concepts li
 
 ## Key Implementations
 
-## a.Fiscal Year Function.
+## 1.Fiscal Year Function.
 
 **Created a UDF to calculate Fiscal Year using April as the starting month.**
 
-## b.Monthly Gross Sales Procedure.
+## 2.Monthly Gross Sales Procedure.
 
 **Built a stored procedure to calculate monthly gross sales for a given customer.**
 
 ## 3️.Market Badge Classification.
 
-**c.Developed a stored procedure to classify markets.**
+**Developed a stored procedure to classify markets.**
 
-Gold → Total Sold Quantity > 5 Million
+**Gold → Total Sold Quantity > 5 Million.**
 
-Silver → Otherwise
+**Silver → Otherwise.**
 
 ## 4️.Pre-Invoice & Post-Invoice Calculations.
 
