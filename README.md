@@ -25,3 +25,101 @@ The project demonstrates strong SQL fundamentals along with advanced concepts li
 
 **7.Classify markets as Gold or Silver based on total sold quantity**
 
+
+## Technical Concepts Used
+
+ **1.User Defined Function (UDF).**
+
+ **2.Stored Procedures.**
+
+ **3.Common Table Expressions (CTE).**
+
+ **4.SQL Views.**
+
+ **5.Window Functions.**
+
+ **6.Aggregations & Group By.**
+
+ **7.Performance Optimization.**
+
+
+## Key Implementations
+
+## a.Fiscal Year Function.
+
+**Created a UDF to calculate Fiscal Year using April as the starting month.**
+
+## b.Monthly Gross Sales Procedure.
+
+**Built a stored procedure to calculate monthly gross sales for a given customer.**
+
+## 3️.Market Badge Classification.
+
+**c.Developed a stored procedure to classify markets.**
+
+Gold → Total Sold Quantity > 5 Million
+
+Silver → Otherwise
+
+## 4️.Pre-Invoice & Post-Invoice Calculations.
+
+**. * . Calculated gross price total.**
+
+**. * Applied pre-invoice discount percentage.**
+
+**. * Created view for post-invoice deductions.**
+
+**. * Computed final Net Sales.**
+
+## 5️.Top Performance Reports.
+
+**. * Generated reports for.**
+
+**. * Top Markets by Net Sales.**
+
+**. * Top Products by Net Sales.**
+
+**. * Top Customers by Net Sales,**
+
+**. * Customer Contribution %.**
+
+## Business Insights Generated
+
+**1.Identified high-performing markets.**
+
+**2.Measured customer revenue contribution.**
+
+**3.Evaluated product-level profitability.**
+
+**4.Enabled fiscal-year based reporting.**
+
+**5.Improved query performance by removing scalar function dependency**
+
+
+## Performance Optimization.
+
+**1.Replaced scalar UDF calls with fiscal_year column.**
+
+**2.Used CTE for modular query design.**
+
+**3.Created Views for reusable discount logic.**
+
+**4.Optimized joins to reduce execution time.**
+
+
+## Skills Demonstrated.
+
+**1.Advanced SQL Query Writing.**
+
+**2.Data Transformation.**
+
+**3.Financial Metrics Calculation.**
+
+**4.Analytical Thinking.**
+
+**5.Business-Oriented Data Modeling.**
+
+
+## Conclusion
+
+**This project simulates a real-world finance analytics use case where SQL is used to transform raw transactional data into meaningful business insights, supporting strategic decision-making.**
