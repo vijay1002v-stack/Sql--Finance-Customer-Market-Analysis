@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-**Project Title**: Finance Customer & Market Analytics
+**Project Title**: Finance Customer & Market Analytics.
+
+
 **Database**: `gdb0041_db`
 
 This project focuses on analyzing sales and financial data using SQL to generate business insights. It involves calculating gross sales, pre-invoice deductions, post-invoice deductions, and net sales, followed by identifying top-performing markets, products, and customers.
